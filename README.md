@@ -8,9 +8,9 @@ class AboutMe extends  Developer {
   livesIn = 'Rio de Janeiro, Brazil';
 }
 class Skills extends Developer {
-  languages  = ['HTML, CSS, JavaScript'];
+  languages  = ['HTML, CSS, JavaScript, TypeScript'];
   libraries  = ['React'];
-  frameworks = ['Bootstrap'];
+  frameworks = ['Bootstrap, Tailwind'];
 }
 ```
 
